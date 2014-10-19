@@ -3,7 +3,7 @@ Instructions on what was asked are bellow.
 
 ====================================================================================================================
 
-1. Cat vs. Dog (Difficulty Level: Hard)
+1.Cat vs. Dog (Difficulty Level: Hard)
 
 Problem ID: catvsdog
 
@@ -38,7 +38,7 @@ Sample output 1
 1
 3
 
-2. Zipf’s Song (Difficulty Level: Medium)
+2.Zipf’s Song (Difficulty Level: Medium)
 
 Problem ID: zipfsong
 
@@ -88,7 +88,8 @@ Sample output 2
 19_2000
 clint_eastwood
 tomorrow_comes_today
-3. Reversed Binary Numbers (Difficulty Level: Easy)
+
+3.Reversed Binary Numbers (Difficulty Level: Easy)
 
 ProblemID: Reversebinary
 
